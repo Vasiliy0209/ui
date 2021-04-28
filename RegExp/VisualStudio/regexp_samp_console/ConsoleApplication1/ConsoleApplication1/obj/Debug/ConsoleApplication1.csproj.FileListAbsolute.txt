@@ -1,0 +1,5 @@
+G:\Work\infsusu\os\os\Lections\Lections_ready\ppt\code\VisualStudio\regexp_samp_console\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+G:\Work\infsusu\os\os\Lections\Lections_ready\ppt\code\VisualStudio\regexp_samp_console\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Work\infsusu\os\os\Lections\Lections_ready\ppt\code\VisualStudio\regexp_samp_console\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Work\infsusu\os\os\Lections\Lections_ready\ppt\code\VisualStudio\regexp_samp_console\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Work\infsusu\os\os\Lections\Lections_ready\ppt\code\VisualStudio\regexp_samp_console\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

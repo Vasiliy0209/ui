@@ -1,0 +1,1 @@
+\e[42m \e[31m My text \e[0m
